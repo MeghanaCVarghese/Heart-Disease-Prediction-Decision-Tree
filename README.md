@@ -144,10 +144,11 @@ Used **GridSearchCV** to optimize:
 
 bash
 git clone https://github.com/MeghanaCVarghese/Decision-Tree-Classifier
+
 pip install -r requirements.txt
 
 
-# Open Jupyter Notebook
+## Open Jupyter Notebook
 jupyter notebook
 
 ---
