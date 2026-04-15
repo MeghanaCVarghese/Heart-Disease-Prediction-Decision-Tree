@@ -5,7 +5,6 @@
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn)
-![GitHub last commit](https://img.shields.io/github/last-commit/MeghanaCVarghese/Heart-Disease-Prediction-Decision-Tree)
 ![GitHub repo size](https://img.shields.io/github/repo-size/MeghanaCVarghese/Heart-Disease-Prediction-Decision-Tree)
 
 ## 📌 Project Overview
