@@ -110,6 +110,25 @@ Used **GridSearchCV** to optimize:
 
 ---
 
+## 📊 Visualizations
+
+### 🔹 Feature Distribution
+![Histogram](images/eda_histogram.png)
+
+### 🔹 Outlier Detection
+![Boxplot](images/boxplot.png)
+
+### 🔹 Correlation Heatmap
+![Heatmap](images/heatmap.png)
+
+### 🔹 Decision Tree Structure
+![Decision Tree](images/decision_tree.png)
+
+### 🔹 ROC Curve
+![ROC Curve](images/roc_curve.png)
+
+---
+
 ## 🧠 Interview Questions
 
 ### 1. What are common hyperparameters of Decision Trees?
