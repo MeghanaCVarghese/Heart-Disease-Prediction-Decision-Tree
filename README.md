@@ -1,6 +1,6 @@
 # 🌳 Decision Tree Classifier – Heart Disease Prediction
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Model-green?logo=scikit-learn)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Yes-green)
 ![Decision Tree](https://img.shields.io/badge/Model-Decision%20Tree-orange)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
