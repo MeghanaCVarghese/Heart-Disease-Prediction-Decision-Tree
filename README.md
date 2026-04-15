@@ -1,5 +1,12 @@
-
 # 🌳 Decision Tree Classifier – Heart Disease Prediction
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Model-green?logo=scikit-learn)
+![Decision Tree](https://img.shields.io/badge/Model-Decision%20Tree-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn)
+![GitHub last commit](https://img.shields.io/github/last-commit/MeghanaCVarghese/Heart-Disease-Prediction-Decision-Tree)
+![GitHub repo size](https://img.shields.io/github/repo-size/MeghanaCVarghese/Heart-Disease-Prediction-Decision-Tree)
 
 ## 📌 Project Overview
 This project implements a **Decision Tree Classifier** to predict the presence of heart disease based on patient medical data. It covers the complete machine learning workflow including **EDA, preprocessing, model building, evaluation, and hyperparameter tuning**.
